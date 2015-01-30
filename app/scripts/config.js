@@ -10,15 +10,15 @@
     },
     layers: [
       {
-        url: 'http://{s}.tiles.mapbox.com/v3/openplans.map-dmar86ym/{z}/{x}/{y}.png',
-        attribution: '<a href="http://mapbox.com/about/maps" target="_blank">Terms &amp; Feedback</a>',
+        url: 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        attribution: '<a href="http://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>',
         maxZoom: 19
       }
     ],
     previewLayers: [
       {
-        url: 'http://{s}.tiles.mapbox.com/v3/openplans.gcp3ekpl/{z}/{x}/{y}.png',
-        attribution: '<a href="http://mapbox.com/about/maps" target="_blank">Terms &amp; Feedback</a>',
+        url: 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        attribution: '<a href="http://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>',
         maxZoom: 19
       }
     ],
